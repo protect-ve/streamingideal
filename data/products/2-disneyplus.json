@@ -1,7 +1,7 @@
 {
         "id": 2,
         "name": "Disney Plus",
-        "usdPrice": 2.5,
+        "usdPrice": 3.5,
         "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
         "description": "(Precio x 30 dias)",
         "stock": true,

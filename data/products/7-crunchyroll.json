@@ -1,7 +1,7 @@
 {
         "id": 7,
         "name": "Crunchyroll",
-        "usdPrice": 2,
+        "usdPrice": 2.50,
         "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Crunchyroll_logo_2018_vertical.png",
         "description": "(Precio x 30 dias)",
         "stock": true,
